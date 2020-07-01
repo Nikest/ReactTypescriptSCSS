@@ -1,6 +1,5 @@
 # FRAMEWORK
 #### React TypeScript SCSS
-#### Node.js Express.js
 
 
 ## Installation
@@ -11,7 +10,7 @@
 #### For production mode
 ```bash
 npm install
-npm start
+npm build
 ```
 `http//localhost:3000`
 _____________________
@@ -20,6 +19,7 @@ _____________________
 
 
 ```bash
-npm run frontent.dev
+npm install
+npm run dev
 ```
 `http//localhost:3008`
